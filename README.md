@@ -2,7 +2,10 @@
 
 ## Visual Studio Code Extensions
 
-## General
+# General
+* [DevToys](https://devtoys.app/)
+
+## VS Code
 * [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 * [Prettier - Code formmater](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
